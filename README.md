@@ -1,7 +1,8 @@
 # Active-Suspension-LQR
 Active Suspension Control System design using LQR and Kalman Filtering in MATLAB/Simulink. Optimized for a C-Segment vehicle, achieving faster settling time with high energy efficiency.
 
-Project Overview
+Project Overview:
+
 This repository contains the design and simulation of an Active Suspension Control System applied to a 2-DOF Quarter-Car Model. The project investigates the application of Modern Control Theory (Linear Quadratic Regulator) to optimize the trade-off between passenger comfort and vehicle handling for a standard C-Segment passenger car.
 
 Key Features:
