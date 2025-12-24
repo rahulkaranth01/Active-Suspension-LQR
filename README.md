@@ -13,4 +13,4 @@ State Estimation: Integration of a Kalman Filter to handle noisy sensor data.
 
 High Efficiency: Achieved critical damping with a peak control effort of only 300 N (approx. 10% of actuator capacity).
 
-Performance: Reduced oscillation settling time by 40% compared to the passive baseline.
+Performance: Reduced oscillation settling time by around 67% compared to the passive baseline.
